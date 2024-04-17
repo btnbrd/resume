@@ -1,5 +1,6 @@
 # Resume
 Here will be my resume
-[Filin A resume.en.pdf](en)
-[Filin A resume.pdf](ru)
+[en version](./Filin A resume.en.pdf)
+
+[ru version](./Filin A resume.pdf)
 

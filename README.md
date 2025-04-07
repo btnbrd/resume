@@ -1,9 +1,9 @@
 # Resume
 
 
-[Russian version](./Filin%20A.A%20resume.pdf)
+[Russian version](./AndreyFilin@mlru.pdf)
 
 
-[English version](./Filin%20A%20resume.en.pdf)
+[English version](./CV@AndreyFilin.pdf)
 
 
